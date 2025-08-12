@@ -60,6 +60,11 @@ It automates irrigation based on soil moisture levels and environmental conditio
 - **Water Pump** → Relay Output
 - **Power** → 3.3V for sensors, 5V for motor/relay
 
+
+<p align="center">
+   <img width="882" height="407" alt="image" src="https://github.com/user-attachments/assets/75c70033-32ff-467d-9d76-a2151df775dc" />
+</p>
+
 ---
 
 ## Working Principle
@@ -70,6 +75,9 @@ It automates irrigation based on soil moisture levels and environmental conditio
    - The pump is turned OFF.
 4. Environmental data (soil moisture, temperature, humidity) is sent to **ThingSpeak** for remote monitoring.
 
+<p align="center">
+<img width="859" height="391" alt="image" src="https://github.com/user-attachments/assets/863b7f29-74cb-4013-8452-61c8d7cd8234" />
+</p>
 ---
 
 ## IoT Integration (ThingSpeak Setup)
@@ -78,6 +86,11 @@ It automates irrigation based on soil moisture levels and environmental conditio
 3. Replace the API key, Wi-Fi SSID, and password in the Arduino code.
 4. Customize the dashboard under "Private View" for real-time monitoring.
 
+
+<p align="center">
+   ![Uploading image.png…]()
+
+</p>
 ---
 
 ## PCB Option
