@@ -4,6 +4,12 @@
 This project implements a **Smart Agriculture & Automatic Irrigation System** using the NodeMCU ESP8266 microcontroller and IoT technologies.  
 It automates irrigation based on soil moisture levels and environmental conditions while allowing remote monitoring via the **ThingSpeak** cloud platform.
 
+
+<p align="center">
+   <img width="894" height="507" alt="image" src="https://github.com/user-attachments/assets/99cea169-e439-4806-a8a6-f82800dd5adc" />
+</p>
+
+
 **Key Features:**
 - Automatic water pump control based on soil moisture.
 - Air temperature and humidity monitoring.
@@ -111,5 +117,3 @@ Calibrate the soil moisture sensor by determining `AirValue` and `WaterValue` be
 
 ---
 
-## License
-This project is open-source. You are free to use, modify, and distribute with proper attribution.
