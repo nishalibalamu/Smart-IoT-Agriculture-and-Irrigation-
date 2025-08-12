@@ -76,7 +76,8 @@ It automates irrigation based on soil moisture levels and environmental conditio
 4. Environmental data (soil moisture, temperature, humidity) is sent to **ThingSpeak** for remote monitoring.
 
 <p align="center">
-<img width="859" height="391" alt="image" src="https://github.com/user-attachments/assets/863b7f29-74cb-4013-8452-61c8d7cd8234" />
+   <img width="796" height="408" alt="image" src="https://github.com/user-attachments/assets/c33aa428-5863-4cc5-a2d6-f913aaa7e4fd" />
+
 </p>
 ---
 
